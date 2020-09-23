@@ -1,5 +1,5 @@
 FROM appium/appium
-MAINTAINER GLU-TSGQA
+MAINTAINER TQA
 
 USER root
 
